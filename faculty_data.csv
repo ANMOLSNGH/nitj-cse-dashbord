@@ -1,0 +1,32 @@
+Name,Designation,Research_Area,Email,Journal_Papers,Conf_Papers,PhDs_Supervised,Patents,Citations,Awards_Won,Funding_Lakhs
+Dr. A. L. Sangal,Professor,Software Engineering,sangalal@nitj.ac.in,45,50,12,2,1200,3,45
+Dr. Harsh K. Verma,Professor,Numerical Computing,vermah@nitj.ac.in,38,42,10,1,850,1,25
+Dr. Renu Dhir,Professor,Pattern Recognition,dhirr@nitj.ac.in,55,60,15,3,1500,4,80
+Dr. Ajay K. Sharma,Professor,Optical Communication,sharmaajayk@nitj.ac.in,120,150,25,8,3200,6,250
+Dr. Geeta Sikka,Associate Professor,Data Mining,sikkag@nitj.ac.in,30,35,8,1,600,2,35
+Dr. Rajneesh Rani,Associate Professor,Image Processing,ranir@nitj.ac.in,28,32,6,0,550,1,20
+Dr. Amritpal Singh,Assistant Professor,Data Science,apsingh@nitj.ac.in,12,15,2,0,150,0,15
+Dr. Aruna Malik,Assistant Professor,Wireless Networks,malika@nitj.ac.in,15,20,3,1,200,1,18
+Dr. Kunwar Pal,Assistant Professor,Blockchain Technology,kunwarp@nitj.ac.in,10,12,1,0,120,0,10
+Dr. Lalatendu Behera,Assistant Professor,Cloud Computing,beheral@nitj.ac.in,14,18,2,0,180,0,12
+Dr. Nagendra Pratap Singh,Assistant Professor,Computer Vision,singhnp@nitj.ac.in,11,14,1,0,140,0,5
+Dr. Samayveer Singh,Assistant Professor,Computer Networks,samays@nitj.ac.in,16,22,3,1,210,1,22
+Dr. Urvashi,Assistant Professor,Cyber Security,urvashi@nitj.ac.in,13,10,2,0,130,1,8
+Dr. Armaan Garg,Assistant Professor,Machine Learning,garga@nitj.ac.in,9,11,1,0,90,0,5
+Dr. Avtar Singh,Assistant Professor,Deep Learning,avtars@nitj.ac.in,8,9,0,0,80,0,0
+Dr. Banalaxmi Brahma,Assistant Professor,Speech Processing,brahmab@nitj.ac.in,7,10,0,0,75,0,0
+Dr. Gopendra Singh,Assistant Professor,Operating Systems,gopendra@nitj.ac.in,6,8,0,0,60,0,0
+Dr. Himanshu Verma,Assistant Professor,IoT Systems,himanshuv@nitj.ac.in,10,13,1,1,110,1,12
+Dr. Jagdeep Kaur,Assistant Professor,Artificial Intelligence,kaurj@nitj.ac.in,18,20,4,0,250,2,30
+Dr. Madhurima Buragohain,Assistant Professor,Network Security,buragohainm@nitj.ac.in,8,12,1,0,95,0,5
+Dr. Naina Yadav,Assistant Professor,Big Data Analytics,nainay@nitj.ac.in,9,15,1,0,105,0,8
+Dr. Muktesh Gupta,Assistant Professor,Information Retrieval,guptam@nitj.ac.in,7,9,0,0,85,0,0
+Dr. Prashant Kumar,Assistant Professor,Cryptography,prashantk@nitj.ac.in,11,14,2,0,145,1,15
+Dr. Pranjal,Assistant Professor,Data Analytics,pranjal@nitj.ac.in,8,11,1,0,90,0,5
+Dr. Prashant Shukla,Assistant Professor,Software Testing,shuklap@nitj.ac.in,9,13,1,0,100,0,6
+Mr. Rahul Aggarwal,Assistant Professor,Database Systems,aggarwalr@nitj.ac.in,5,8,0,0,40,0,0
+Dr. Shefali Arora Chouhan,Assistant Professor,Natural Language Processing,chouhansa@nitj.ac.in,10,14,1,0,115,0,10
+Dr. Shveta Mahajan,Assistant Professor,Wireless Sensor Networks,mahajans@nitj.ac.in,12,16,2,0,160,1,14
+Dr. Somesula Manoj Kumar,Assistant Professor,Algorithm Design,kumarsm@nitj.ac.in,6,9,0,0,55,0,0
+Dr. Sumit Kumar,Assistant Professor,Edge Computing,kumars@nitj.ac.in,9,12,1,0,98,0,7
+Dr. Swarnima Singh Gautam,Assistant Professor,Computer Architecture,gautamss@nitj.ac.in,7,10,0,0,65,0,0
