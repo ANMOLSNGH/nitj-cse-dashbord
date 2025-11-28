@@ -42,11 +42,23 @@ def check_password():
 if not st.session_state.authenticated:
     st.markdown("<br><br><br>", unsafe_allow_html=True)
     c1, c2, c3 = st.columns([1,1,1])
+
     with c2:
         render_logo(width=150, location=st)
         st.markdown("<h2 style='text-align: center;'>Faculty Portal Login</h2>", unsafe_allow_html=True)
-        st.text_input("Enter Secure Access Key:", type="password", key="password", on_change=check_password)
+
+        # VISIBLE PASSWORD FIELD
+        st.text_input(
+            "Access Key (visible):",
+            key="password",
+            on_change=check_password
+        )
+
+        # SHOW THE PASSWORD CLEARLY
+        st.caption("Password: **rana22**")
+
     st.stop()
+
 
 # ======================
 # MINIMAL CSS
@@ -392,3 +404,4 @@ with tab_compare:
 # ======================
 st.markdown("---")
 st.caption("NIT Jalandhar | CSE Dashboard | @Rana___")
+
